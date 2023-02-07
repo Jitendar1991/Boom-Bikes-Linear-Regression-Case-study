@@ -20,10 +20,10 @@ The major steps included in the python notebook are data interpretation, data vi
 Concepts such as EDA, p-value, VIF, RFE were used and model building was done using statsmodels library
 
 ## Technologies Used
-pandas
-seaborn
-matplotlib
-statsmodels
-sci-kit learn
-numpy
+- pandas
+- seaborn
+- matplotlib
+- statsmodels
+- sci-kit learn
+-numpy
 
