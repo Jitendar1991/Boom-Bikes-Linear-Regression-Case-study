@@ -25,5 +25,5 @@ Concepts such as EDA, p-value, VIF, RFE were used and model building was done us
 - matplotlib
 - statsmodels
 - sci-kit learn
--numpy
+- numpy
 
